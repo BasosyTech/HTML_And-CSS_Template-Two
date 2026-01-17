@@ -299,7 +299,7 @@ header nav .form i {
   padding: var(--main-padding, 100px) 0;
   min-height: 600px;
   position: relative;
-  background-image: url("../images/design-features.jpg");
+  background-image: url("../images/design-features.webp");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -492,7 +492,7 @@ header nav .form i {
 .statistics {
   padding: var(--main-padding, 100px) 0px;
   text-align: center;
-  background-image: url("../images/stats.png");
+  background-image: url("../images/stats.webp");
   background-size: cover;
   position: relative;
 }
@@ -657,7 +657,7 @@ header nav .form i {
 /* Start quote */
 .quote {
   padding: var(--main-padding, 100px) 0px;
-  background-image: url("../images/quote.jpg");
+  background-image: url("../images/quote.webp");
   background-size: cover;
   position: relative;
   text-align: center;
@@ -802,7 +802,7 @@ header nav .form i {
 /* End Pricing */
 /* Start Subscribe */
 .subscribe {
-  background-image: url("../images/subscribe.jpg");
+  background-image: url("../images/subscribe.webp");
   background-size: cover;
   padding: var(--main-padding, 100px) 0px;
   position: relative;
@@ -950,7 +950,7 @@ header nav .form i {
 /* Start Footer */
 footer {
   padding: calc(var(--main-padding, 100px) / 2) 0px;
-  background-image: url("../images/subscribe.jpg");
+  background-image: url("../images/subscribe.webp");
   background-size: cover;
   position: relative;
 }
